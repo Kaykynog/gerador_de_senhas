@@ -1,3 +1,8 @@
-# gerador_de_senhas
-Com a intenção de aplicar meus conhecimentos, desenvolvi um gerador de senhas que irá me auxiliar a garantir a segurança das minhas contas pessoais.
-Neste projeto utilizei as seguintes bibliotecas: random, string
+# Gerador de Senhas Fortes
+Este é um simples programa em Python que gera senhas seguras com base nas preferências do usuário.
+
+# Funcionalidades
+• Solicita o comprimento desejado da senha.
+• Permite ao usuário escolher quais tipos de caracteres devem ser incluídos na senha.
+• Gera uma senha aleatória com base nas preferências do usuário.
+• Exibe a senha gerada na tela.
